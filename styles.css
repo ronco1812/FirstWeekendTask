@@ -1,0 +1,82 @@
+#navbar{
+    padding: 25px 20px;
+    margin: -15px -15px;
+    background-color: yellow;
+    position: fixed;
+    width: 100%;
+    display: block;
+  }
+  .nav-link{
+    background-color: white;
+    color: red;
+    border: 1px solid #7EB3FF;
+    padding: 6px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;  
+  }
+  .nav-link:hover{
+    background-color: #0260E8;
+    color: white;
+  }
+  #about_the_league{
+    flex-direction: column;
+    display: flex;
+    text-align: center;     
+    justify-content: center;
+    align-items: center;
+    background-color: #51EAFF;  
+    height: 100vh;
+    width: 100%;
+    
+  }
+  #top_teams{ 
+    flex-direction: column;
+    display: flex;
+    text-align: center;  
+    justify-content: center;
+    align-items: center;
+    background-color: #5199FF;
+    width: 100%;
+    height: 100vh;  
+  }
+  #best_players{ 
+    flex-direction: column;
+    display: flex;
+    text-align: center;  
+    justify-content: center;
+    align-items: center;
+    background-color: #5199FF;
+    width: 100%;
+    height: 100vh;  
+  }
+  #latest_news{ 
+    flex-direction: column;
+    display: flex;
+    text-align: center;  
+    justify-content: center;
+    align-items: center;
+    background-color: #5199FF;
+    width: 100%;
+    height: 100vh;  
+  }
+  #refrees{ 
+    flex-direction: column;
+    display: flex;
+    text-align: center;  
+    justify-content: center;
+    align-items: center;
+    background-color: #5199FF;
+    width: 100%;
+    height: 100vh;  
+  }
+  #stadiums{ 
+    flex-direction: column;
+    display: flex;
+    text-align: center;  
+    justify-content: center;
+    align-items: center;
+    background-color: #5199FF;
+    width: 100%;
+    height: 100vh;  
+  }
